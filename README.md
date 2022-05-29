@@ -15,21 +15,26 @@ FrontEnd :  ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoCol
             ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
             ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 <br>
+API :   ![Context API](https://img.shields.io/badge/-ContextAPI-000?&logo=digitalocean&logoColor=orange)
+        ![Coin Gecko API](https://img.shields.io/badge/-CoinGeckoAPI-000?&logo=docker&logoColor=lightblue)    
+<br>
+Cloud : ![Context API](https://img.shields.io/badge/-Netlify-000?&logo=netlify&logoColor=blue)
+<br>
+Database : ![Context API](https://img.shields.io/badge/-FireBase-000?&logo=firebase&logoColor=yellow)
+<br>
 BackEnd : ![Node.js](https://img.shields.io/badge/-NodeJS-000?&logo=node.js)
 <br>
 FrameWork : ![React](https://img.shields.io/badge/-React-000?&logo=React)
             ![ExpressJs](https://img.shields.io/badge/-ExpressJs-000?&logo=express&logoColor=orange)
             ![Material-UI](https://img.shields.io/badge/-BootStrap5-000?&logo=bootstrap&logoColor=pink)
-<br>
-API :   ![Context API](https://img.shields.io/badge/-ContextAPI-000?&logo=digitalocean&logoColor=orange)
-        ![Coin Gecko API](https://img.shields.io/badge/-CoinGeckoAPI-000?&logo=docker&logoColor=lightblue)    
 
-Cloud : ![Context API](https://img.shields.io/badge/-Netlify-000?&logo=netlify&logoColor=blue)
-<br>
-Database : ![Context API](https://img.shields.io/badge/-FireBase-000?&logo=firebase&logoColor=yellow)
 
  ## Live Hosted Project : https://cryptolove.netlify.app/
 
+ ## Chart Visibility Feature
+<img src="/public/3.png" alt="chart">
+
+<hr>
 
 ## Available Scripts
 
