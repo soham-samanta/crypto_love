@@ -1,6 +1,34 @@
-# Getting Started with Create React App
+# Crypto Love 
+<img src="/public/1.png" alt="home" height="70px" width="125px">
+### About The Project 
+- A Crypto Currency Tracker Web App consisting over 100+ coins sorted by its market cap. <br>
+- Displays real time price data and historical charts (1day, 3 month, 1 year). <br>
+- Also supports different price state (USD , INR , EUR , BTC) <br>
+- Used ReactJS, Material UI and Chart JS with full responsive functionality. <br>
+- Fetched data from Context API to manage thestate of our app and Coin Gecko API for backend.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="/public/2.png" alt="chart" height="70px" width="125px">
+
+### Tech Stack Used 
+FrontEnd :  ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
+            ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
+            ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+<br>
+BackEnd : ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
+<br>
+FrameWork : ![React](https://img.shields.io/badge/-React-000?&logo=React)
+            ![ExpressJs](https://img.shields.io/badge/-ExpressJs-000?&logo=express&logoColor=orange)
+            ![Material-UI](https://img.shields.io/badge/-BootStrap5-000?&logo=bootstrap&logoColor=pink)
+<br>
+API :   ![Context API](https://img.shields.io/badge/-ExpressJs-000?&logo=digitalocean&logoColor=orange)
+        ![Coin Gecko API](https://img.shields.io/badge/-ExpressJs-000?&logo=docker&logoColor=lightblue)    
+<br>
+Cloud : ![Context API](https://img.shields.io/badge/-ExpressJs-000?&logo=netlify&logoColor=blue)
+<br>
+Database : ![Context API](https://img.shields.io/badge/-ExpressJs-000?&logo=firebase&logoColor=yellow)
+
+ ## Live Hosted Project : https://cryptolove.netlify.app/
+
 
 ## Available Scripts
 
