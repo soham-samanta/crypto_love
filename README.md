@@ -1,14 +1,14 @@
 # Crypto Love 
-<img src="/public/1.png" alt="home" height="200px" width="500px">
+<img src="/public/1.png" alt="home" height="350px" width="700px">
 
 ## About The Project <br>
 - A Crypto Currency Tracker Web App consisting over 100+ coins sorted by its market cap. <br>
-- Displays real time price data and historical charts (1day, 3 month, 1 year). <br>
+- Displays real time price data and historical charts (1 day, 3 month, 1 year). <br>
 - Also supports different price state (USD , INR , EUR , BTC) <br>
 - Used ReactJS, Material UI and Chart JS with full responsive functionality. <br>
 - Fetched data from Context API to manage thestate of our app and Coin Gecko API for backend.
 
-<img src="/public/2.png" alt="chart" height="200px" width="500px">
+<img src="/public/2.png" alt="chart" height="350px" width="700px">
 
 ### Tech Stack Used 
 FrontEnd :  ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
@@ -23,7 +23,7 @@ FrameWork : ![React](https://img.shields.io/badge/-React-000?&logo=React)
 <br>
 API :   ![Context API](https://img.shields.io/badge/-ContextAPI-000?&logo=digitalocean&logoColor=orange)
         ![Coin Gecko API](https://img.shields.io/badge/-CoinGeckoAPI-000?&logo=docker&logoColor=lightblue)    
-<br>
+
 Cloud : ![Context API](https://img.shields.io/badge/-Netlify-000?&logo=netlify&logoColor=blue)
 <br>
 Database : ![Context API](https://img.shields.io/badge/-FireBase-000?&logo=firebase&logoColor=yellow)
