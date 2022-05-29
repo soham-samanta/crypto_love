@@ -1,4 +1,5 @@
 # Crypto Love 
+## Live Hosted Project : https://cryptolove.netlify.app/
 <img src="/public/1.png" alt="home" >
 
 ## About The Project <br>
@@ -28,8 +29,7 @@ API :       ![Context API](https://img.shields.io/badge/-ContextAPI-000?&logo=di
 <br>
 Cloud :     ![Context API](https://img.shields.io/badge/-Netlify-000?&logo=netlify&logoColor=blue)
 
- ## Live Hosted Project : https://cryptolove.netlify.app/
- ## Chart Visibility Feature
+## Chart Visibility Feature
 <img src="/public/3.png" alt="chart">
 
 <hr>
