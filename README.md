@@ -1,5 +1,5 @@
 # Crypto Love 
-<img src="/public/1.png" alt="home" height="350px" width="700px">
+<img src="/public/1.png" alt="home" >
 
 ## About The Project <br>
 - A Crypto Currency Tracker Web App consisting over 100+ coins sorted by its market cap. <br>
@@ -8,7 +8,7 @@
 - Used ReactJS, Material UI and Chart JS with full responsive functionality. <br>
 - Fetched data from Context API to manage thestate of our app and Coin Gecko API for backend.
 
-<img src="/public/2.png" alt="chart" height="350px" width="700px">
+<img src="/public/2.png" alt="chart">
 
 ### Tech Stack Used 
 FrontEnd :  ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
