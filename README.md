@@ -17,8 +17,8 @@ FrontEnd :  ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoCol
 <br>
 API :   ![Context API](https://img.shields.io/badge/-ContextAPI-000?&logo=digitalocean&logoColor=orange)
         ![Coin Gecko API](https://img.shields.io/badge/-CoinGeckoAPI-000?&logo=docker&logoColor=lightblue)    
-<br>
-Cloud : ![Context API](https://img.shields.io/badge/-Netlify-000?&logo=netlify&logoColor=blue)
+<!-- <br>
+Cloud : ![Context API](https://img.shields.io/badge/-Netlify-000?&logo=netlify&logoColor=blue) -->
 <br>
 Database : ![Context API](https://img.shields.io/badge/-FireBase-000?&logo=firebase&logoColor=yellow)
 <br>
